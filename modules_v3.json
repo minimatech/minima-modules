@@ -23,22 +23,54 @@
       {
         "Version": "3.200.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/3.200.0/VirtoCommerce.Core_3.200.0.zip",
-        "Incompatibilities": [
-          
-        ],
+        "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""
       },
       {
         "Version": "3.201.0",
         "VersionTag": "alpha.1510",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": "alpha.1510"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Core_3.201.0-alpha.1510.zip",
-        "Incompatibilities": [
-          
-        ],
+        "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""
       }
@@ -67,7 +99,25 @@
       {
         "Version": "3.203.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 203,
+          "FullVersion": "3.203",
+          "SupportedDBVersion": "3.203",
+          "SupportedPluginVersion": "3.203",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-azure-search/releases/download/3.203.0/VirtoCommerce.AzureSearch_3.203.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -81,7 +131,25 @@
       {
         "Version": "3.204.0",
         "VersionTag": "alpha.151",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 204,
+          "FullVersion": "3.204",
+          "SupportedDBVersion": "3.204",
+          "SupportedPluginVersion": "3.204",
+          "Patch": 0,
+          "Prerelease": "alpha.151"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureSearch_3.204.0-alpha.151.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -117,7 +185,25 @@
       {
         "Version": "3.201.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/3.201.0/VirtoCommerce.Cart_3.201.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -143,7 +229,25 @@
       {
         "Version": "3.202.0",
         "VersionTag": "alpha.541",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 202,
+          "FullVersion": "3.202",
+          "SupportedDBVersion": "3.202",
+          "SupportedPluginVersion": "3.202",
+          "Patch": 0,
+          "Prerelease": "alpha.541"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Cart_3.202.0-alpha.541.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -191,7 +295,25 @@
       {
         "Version": "3.212.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 212,
+          "FullVersion": "3.212",
+          "SupportedDBVersion": "3.212",
+          "SupportedPluginVersion": "3.212",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.207.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 207,
+          "FullVersion": "3.207",
+          "SupportedDBVersion": "3.207",
+          "SupportedPluginVersion": "3.207",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/3.212.0/VirtoCommerce.Catalog_3.212.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -225,7 +347,25 @@
       {
         "Version": "3.213.0",
         "VersionTag": "alpha.1933",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 213,
+          "FullVersion": "3.213",
+          "SupportedDBVersion": "3.213",
+          "SupportedPluginVersion": "3.213",
+          "Patch": 0,
+          "Prerelease": "alpha.1933"
+        },
         "PlatformVersion": "3.207.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 207,
+          "FullVersion": "3.207",
+          "SupportedDBVersion": "3.207",
+          "SupportedPluginVersion": "3.207",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.213.0-alpha.1933.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -281,7 +421,25 @@
       {
         "Version": "3.202.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 202,
+          "FullVersion": "3.202",
+          "SupportedDBVersion": "3.202",
+          "SupportedPluginVersion": "3.202",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/3.202.0/VirtoCommerce.Content_3.202.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -311,7 +469,25 @@
       {
         "Version": "3.203.0",
         "VersionTag": "alpha.802",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 203,
+          "FullVersion": "3.203",
+          "SupportedDBVersion": "3.203",
+          "SupportedPluginVersion": "3.203",
+          "Patch": 0,
+          "Prerelease": "alpha.802"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Content_3.203.0-alpha.802.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -364,7 +540,25 @@
       {
         "Version": "3.202.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 202,
+          "FullVersion": "3.202",
+          "SupportedDBVersion": "3.202",
+          "SupportedPluginVersion": "3.202",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer/releases/download/3.202.0/VirtoCommerce.Customer_3.202.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -386,7 +580,25 @@
       {
         "Version": "3.203.0",
         "VersionTag": "alpha.677",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 203,
+          "FullVersion": "3.203",
+          "SupportedDBVersion": "3.203",
+          "SupportedPluginVersion": "3.203",
+          "Patch": 0,
+          "Prerelease": "alpha.677"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Customer_3.203.0-alpha.677.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -430,7 +642,25 @@
       {
         "Version": "3.203.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 203,
+          "FullVersion": "3.203",
+          "SupportedDBVersion": "3.203",
+          "SupportedPluginVersion": "3.203",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-elastic-search/releases/download/3.203.0/VirtoCommerce.ElasticSearch_3.203.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -444,7 +674,25 @@
       {
         "Version": "3.204.0",
         "VersionTag": "alpha.157",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 204,
+          "FullVersion": "3.204",
+          "SupportedDBVersion": "3.204",
+          "SupportedPluginVersion": "3.204",
+          "Patch": 0,
+          "Prerelease": "alpha.157"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch_3.204.0-alpha.157.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -480,7 +728,25 @@
       {
         "Version": "3.200.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-export/releases/download/3.200.0/VirtoCommerce.Export_3.200.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -494,7 +760,25 @@
       {
         "Version": "3.201.0",
         "VersionTag": "alpha.163",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": "alpha.163"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Export_3.201.0-alpha.163.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -532,7 +816,25 @@
       {
         "Version": "3.203.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 203,
+          "FullVersion": "3.203",
+          "SupportedDBVersion": "3.203",
+          "SupportedPluginVersion": "3.203",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-image-tools/releases/download/3.203.0/VirtoCommerce.ImageTools_3.203.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -546,7 +848,25 @@
       {
         "Version": "3.204.0",
         "VersionTag": "alpha.268",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 204,
+          "FullVersion": "3.204",
+          "SupportedDBVersion": "3.204",
+          "SupportedPluginVersion": "3.204",
+          "Patch": 0,
+          "Prerelease": "alpha.268"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ImageTools_3.204.0-alpha.268.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -582,7 +902,25 @@
       {
         "Version": "3.203.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 203,
+          "FullVersion": "3.203",
+          "SupportedDBVersion": "3.203",
+          "SupportedPluginVersion": "3.203",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-inventory/releases/download/3.203.0/VirtoCommerce.Inventory_3.203.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -604,7 +942,25 @@
       {
         "Version": "3.204.0",
         "VersionTag": "alpha.356",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 204,
+          "FullVersion": "3.204",
+          "SupportedDBVersion": "3.204",
+          "SupportedPluginVersion": "3.204",
+          "Patch": 0,
+          "Prerelease": "alpha.356"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Inventory_3.204.0-alpha.356.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -648,7 +1004,25 @@
       {
         "Version": "3.203.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 203,
+          "FullVersion": "3.203",
+          "SupportedDBVersion": "3.203",
+          "SupportedPluginVersion": "3.203",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-lucene-search/releases/download/3.203.0/VirtoCommerce.LuceneSearch_3.203.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -662,7 +1036,25 @@
       {
         "Version": "3.204.0",
         "VersionTag": "alpha.135",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 204,
+          "FullVersion": "3.204",
+          "SupportedDBVersion": "3.204",
+          "SupportedPluginVersion": "3.204",
+          "Patch": 0,
+          "Prerelease": "alpha.135"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.LuceneSearch_3.204.0-alpha.135.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -698,7 +1090,25 @@
       {
         "Version": "3.200.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/3.200.0/VirtoCommerce.Marketing_3.200.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -732,7 +1142,25 @@
       {
         "Version": "3.201.0",
         "VersionTag": "alpha.746",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": "alpha.746"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Marketing_3.201.0-alpha.746.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -789,7 +1217,25 @@
       {
         "Version": "3.202.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 202,
+          "FullVersion": "3.202",
+          "SupportedDBVersion": "3.202",
+          "SupportedPluginVersion": "3.202",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-notification/releases/download/3.202.0/VirtoCommerce.Notifications_3.202.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -803,7 +1249,25 @@
       {
         "Version": "3.203.0",
         "VersionTag": "alpha.249",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 203,
+          "FullVersion": "3.203",
+          "SupportedDBVersion": "3.203",
+          "SupportedPluginVersion": "3.203",
+          "Patch": 0,
+          "Prerelease": "alpha.249"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.203.0-alpha.249.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -839,7 +1303,25 @@
       {
         "Version": "3.204.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 204,
+          "FullVersion": "3.204",
+          "SupportedDBVersion": "3.204",
+          "SupportedPluginVersion": "3.204",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/3.204.0/VirtoCommerce.Orders_3.204.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -885,7 +1367,25 @@
       {
         "Version": "3.205.0",
         "VersionTag": "alpha.1003",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 205,
+          "FullVersion": "3.205",
+          "SupportedDBVersion": "3.205",
+          "SupportedPluginVersion": "3.205",
+          "Patch": 0,
+          "Prerelease": "alpha.1003"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Orders_3.205.0-alpha.1003.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -953,7 +1453,25 @@
       {
         "Version": "3.203.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 203,
+          "FullVersion": "3.203",
+          "SupportedDBVersion": "3.203",
+          "SupportedPluginVersion": "3.203",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-payment/releases/download/3.203.0/VirtoCommerce.Payment_3.203.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -971,7 +1489,25 @@
       {
         "Version": "3.204.0",
         "VersionTag": "alpha.153",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 204,
+          "FullVersion": "3.204",
+          "SupportedDBVersion": "3.204",
+          "SupportedPluginVersion": "3.204",
+          "Patch": 0,
+          "Prerelease": "alpha.153"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Payment_3.204.0-alpha.153.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1011,7 +1547,25 @@
       {
         "Version": "3.205.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 205,
+          "FullVersion": "3.205",
+          "SupportedDBVersion": "3.205",
+          "SupportedPluginVersion": "3.205",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/3.205.0/VirtoCommerce.Pricing_3.205.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1041,7 +1595,25 @@
       {
         "Version": "3.206.0",
         "VersionTag": "alpha.588",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 206,
+          "FullVersion": "3.206",
+          "SupportedDBVersion": "3.206",
+          "SupportedPluginVersion": "3.206",
+          "Patch": 0,
+          "Prerelease": "alpha.588"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.206.0-alpha.588.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1093,22 +1665,54 @@
       {
         "Version": "3.206.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 206,
+          "FullVersion": "3.206",
+          "SupportedDBVersion": "3.206",
+          "SupportedPluginVersion": "3.206",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/3.206.0/VirtoCommerce.Search_3.206.0.zip",
-        "Incompatibilities": [
-          
-        ],
+        "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""
       },
       {
         "Version": "3.207.0",
         "VersionTag": "alpha.597",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 207,
+          "FullVersion": "3.207",
+          "SupportedDBVersion": "3.207",
+          "SupportedPluginVersion": "3.207",
+          "Patch": 0,
+          "Prerelease": "alpha.597"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.207.0-alpha.597.zip",
-        "Incompatibilities": [
-          
-        ],
+        "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""
       }
@@ -1137,7 +1741,25 @@
       {
         "Version": "3.200.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-shipping/releases/download/3.200.0/VirtoCommerce.Shipping_3.200.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1155,7 +1777,25 @@
       {
         "Version": "3.201.0",
         "VersionTag": "alpha.116",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": "alpha.116"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Shipping_3.201.0-alpha.116.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1195,7 +1835,25 @@
       {
         "Version": "3.201.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps/releases/download/3.201.0/VirtoCommerce.Sitemaps_3.201.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1229,7 +1887,25 @@
       {
         "Version": "3.202.0",
         "VersionTag": "alpha.261",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 202,
+          "FullVersion": "3.202",
+          "SupportedDBVersion": "3.202",
+          "SupportedPluginVersion": "3.202",
+          "Patch": 0,
+          "Prerelease": "alpha.261"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Sitemaps_3.202.0-alpha.261.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1285,7 +1961,25 @@
       {
         "Version": "3.203.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 203,
+          "FullVersion": "3.203",
+          "SupportedDBVersion": "3.203",
+          "SupportedPluginVersion": "3.203",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/3.203.0/VirtoCommerce.Store_3.203.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1303,7 +1997,25 @@
       {
         "Version": "3.204.0",
         "VersionTag": "alpha.603",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 204,
+          "FullVersion": "3.204",
+          "SupportedDBVersion": "3.204",
+          "SupportedPluginVersion": "3.204",
+          "Patch": 0,
+          "Prerelease": "alpha.603"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.204.0-alpha.603.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1344,7 +2056,25 @@
       {
         "Version": "3.200.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-subscription/releases/download/3.200.0/VirtoCommerce.Subscription_3.200.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1374,7 +2104,25 @@
       {
         "Version": "3.201.0",
         "VersionTag": "alpha.258",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": "alpha.258"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Subscription_3.201.0-alpha.258.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1426,7 +2174,25 @@
       {
         "Version": "3.200.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-tax/releases/download/3.200.0/VirtoCommerce.Tax_3.200.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1444,7 +2210,25 @@
       {
         "Version": "3.201.0",
         "VersionTag": "alpha.114",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": "alpha.114"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Tax_3.201.0-alpha.114.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1484,7 +2268,25 @@
       {
         "Version": "3.204.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 204,
+          "FullVersion": "3.204",
+          "SupportedDBVersion": "3.204",
+          "SupportedPluginVersion": "3.204",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-review/releases/download/3.204.0/VirtoCommerce.CustomerReviews_3.204.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1514,7 +2316,25 @@
       {
         "Version": "3.205.0",
         "VersionTag": "alpha.120",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 205,
+          "FullVersion": "3.205",
+          "SupportedDBVersion": "3.205",
+          "SupportedPluginVersion": "3.205",
+          "Patch": 0,
+          "Prerelease": "alpha.120"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.205.0-alpha.120.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1564,7 +2384,25 @@
       {
         "Version": "3.201.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-Authorize.Net/releases/download/3.201.0/VirtoCommerce.AuthorizeNet_3.201.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1586,7 +2424,25 @@
       {
         "Version": "3.202.0",
         "VersionTag": "alpha.260",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 202,
+          "FullVersion": "3.202",
+          "SupportedDBVersion": "3.202",
+          "SupportedPluginVersion": "3.202",
+          "Patch": 0,
+          "Prerelease": "alpha.260"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuthorizeNet_3.202.0-alpha.260.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1628,7 +2484,25 @@
       {
         "Version": "3.200.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-avatax/releases/download/3.200.0/VirtoCommerce.AvalaraTax_3.200.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1662,7 +2536,25 @@
       {
         "Version": "3.201.0",
         "VersionTag": "alpha.239",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": "alpha.239"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AvalaraTax_3.201.0-alpha.239.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1718,7 +2610,25 @@
       {
         "Version": "3.200.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization/releases/download/3.200.0/VirtoCommerce.CatalogPersonalization_3.200.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1740,7 +2650,25 @@
       {
         "Version": "3.201.0",
         "VersionTag": "alpha.179",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": "alpha.179"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPersonalization_3.201.0-alpha.179.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1785,7 +2713,25 @@
       {
         "Version": "3.200.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-publishing/releases/download/3.200.0/VirtoCommerce.CatalogPublishing_3.200.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1803,7 +2749,25 @@
       {
         "Version": "3.201.0",
         "VersionTag": "alpha.278",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": "alpha.278"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPublishing_3.201.0-alpha.278.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1841,7 +2805,25 @@
       {
         "Version": "3.10.5",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 10,
+          "FullVersion": "3.10",
+          "SupportedDBVersion": "3.10",
+          "SupportedPluginVersion": "3.10",
+          "Patch": 5,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.0.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 0,
+          "FullVersion": "3.0",
+          "SupportedDBVersion": "3.0",
+          "SupportedPluginVersion": "3.0",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pagebuilder/releases/download/3.10.5/VirtoCommerce.PageBuilderModule_3.10.5.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1863,7 +2845,25 @@
       {
         "Version": "3.11.0",
         "VersionTag": "alpha.250",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 11,
+          "FullVersion": "3.11",
+          "SupportedDBVersion": "3.11",
+          "SupportedPluginVersion": "3.11",
+          "Patch": 0,
+          "Prerelease": "alpha.250"
+        },
         "PlatformVersion": "3.0.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 0,
+          "FullVersion": "3.0",
+          "SupportedDBVersion": "3.0",
+          "SupportedPluginVersion": "3.0",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PageBuilderModule_3.11.0-alpha.250.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1907,7 +2907,25 @@
       {
         "Version": "3.0.1",
         "VersionTag": "preview",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 0,
+          "FullVersion": "3.0",
+          "SupportedDBVersion": "3.0",
+          "SupportedPluginVersion": "3.0",
+          "Patch": 1,
+          "Prerelease": "preview"
+        },
         "PlatformVersion": "3.0.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 0,
+          "FullVersion": "3.0",
+          "SupportedDBVersion": "3.0",
+          "SupportedPluginVersion": "3.0",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-contentful/releases/download/3.0.1-preview/VirtoCommerce.Contentful_3.0.1-preview.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1945,7 +2963,25 @@
       {
         "Version": "3.200.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-bulk-actions/releases/download/3.200.0/VirtoCommerce.BulkActionsModule_3.200.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1959,7 +2995,25 @@
       {
         "Version": "3.201.0",
         "VersionTag": "alpha.150",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": "alpha.150"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BulkActionsModule_3.201.0-alpha.150.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -1993,7 +3047,25 @@
       {
         "Version": "3.201.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.201.0/VirtoCommerce.Quote_3.201.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -2027,7 +3099,25 @@
       {
         "Version": "3.202.0",
         "VersionTag": "alpha.286",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 202,
+          "FullVersion": "3.202",
+          "SupportedDBVersion": "3.202",
+          "SupportedPluginVersion": "3.202",
+          "Patch": 0,
+          "Prerelease": "alpha.286"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.202.0-alpha.286.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -2083,7 +3173,25 @@
       {
         "Version": "3.200.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-dynamic-associations/releases/download/3.200.0/VirtoCommerce.DynamicAssociationsModule_3.200.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -2109,7 +3217,25 @@
       {
         "Version": "3.201.0",
         "VersionTag": "alpha.79",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": "alpha.79"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.DynamicAssociationsModule_3.201.0-alpha.79.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -2165,11 +3291,27 @@
       {
         "Version": "3.211.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 211,
+          "FullVersion": "3.211",
+          "SupportedDBVersion": "3.211",
+          "SupportedPluginVersion": "3.211",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-experience-api/releases/download/3.211.0/VirtoCommerce.ExperienceApi_3.211.0.zip",
-        "Incompatibilities": [
-          
-        ],
+        "Incompatibilities": [],
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
@@ -2217,11 +3359,27 @@
       {
         "Version": "3.212.0",
         "VersionTag": "alpha.954",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 212,
+          "FullVersion": "3.212",
+          "SupportedDBVersion": "3.212",
+          "SupportedPluginVersion": "3.212",
+          "Patch": 0,
+          "Prerelease": "alpha.954"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.212.0-alpha.954.zip",
-        "Incompatibilities": [
-          
-        ],
+        "Incompatibilities": [],
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
@@ -2290,7 +3448,25 @@
       {
         "Version": "3.200.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics/releases/download/3.200.0/VirtoCommerce.GoogleEcommerceAnalytics_3.200.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -2308,7 +3484,25 @@
       {
         "Version": "3.201.0",
         "VersionTag": "alpha.118",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": "alpha.118"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GoogleEcommerceAnalytics_3.201.0-alpha.118.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -2348,7 +3542,25 @@
       {
         "Version": "1.3.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 1,
+          "Minor": 3,
+          "FullVersion": "1.3",
+          "SupportedDBVersion": "1.3",
+          "SupportedPluginVersion": "1.3",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.0.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 0,
+          "FullVersion": "3.0",
+          "SupportedDBVersion": "3.0",
+          "SupportedPluginVersion": "3.0",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.DemoSolutionFeaturesModule_1.3.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -2374,7 +3586,25 @@
       {
         "Version": "1.3.0",
         "VersionTag": "alpha.125",
+        "SemanticVersion": {
+          "Major": 1,
+          "Minor": 3,
+          "FullVersion": "1.3",
+          "SupportedDBVersion": "1.3",
+          "SupportedPluginVersion": "1.3",
+          "Patch": 0,
+          "Prerelease": "alpha.125"
+        },
         "PlatformVersion": "3.0.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 0,
+          "FullVersion": "3.0",
+          "SupportedDBVersion": "3.0",
+          "SupportedPluginVersion": "3.0",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.DemoSolutionFeaturesModule_1.3.0-alpha.125.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -2420,23 +3650,55 @@
       {
         "Version": "1.0.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 1,
+          "Minor": 0,
+          "FullVersion": "1.0",
+          "SupportedDBVersion": "1.0",
+          "SupportedPluginVersion": "1.0",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.0.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 0,
+          "FullVersion": "3.0",
+          "SupportedDBVersion": "3.0",
+          "SupportedPluginVersion": "3.0",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-saas/releases/download/1.0.0/VirtoCommerce.SaaS_1.0.0.zip",
         "Incompatibilities": null,
-        "Dependencies": [
-          
-        ],
+        "Dependencies": [],
         "ReleaseNotes": "First version."
       },
       {
         "Version": "1.0.0",
         "VersionTag": "alpha.59",
+        "SemanticVersion": {
+          "Major": 1,
+          "Minor": 0,
+          "FullVersion": "1.0",
+          "SupportedDBVersion": "1.0",
+          "SupportedPluginVersion": "1.0",
+          "Patch": 0,
+          "Prerelease": "alpha.59"
+        },
         "PlatformVersion": "3.0.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 0,
+          "FullVersion": "3.0",
+          "SupportedDBVersion": "3.0",
+          "SupportedPluginVersion": "3.0",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SaaS_1.0.0-alpha.59.zip",
         "Incompatibilities": null,
-        "Dependencies": [
-          
-        ],
+        "Dependencies": [],
         "ReleaseNotes": "First version."
       }
     ]
@@ -2464,12 +3726,28 @@
       {
         "Version": "0.0.3",
         "VersionTag": "alpha.19",
+        "SemanticVersion": {
+          "Major": 0,
+          "Minor": 0,
+          "FullVersion": "0.0",
+          "SupportedDBVersion": "0.0",
+          "SupportedPluginVersion": "0.0",
+          "Patch": 3,
+          "Prerelease": "alpha.19"
+        },
         "PlatformVersion": "3.26.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 26,
+          "FullVersion": "3.26",
+          "SupportedDBVersion": "3.26",
+          "SupportedPluginVersion": "3.26",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ChangesCollectorModule_0.0.3-alpha.19.zip",
         "Incompatibilities": null,
-        "Dependencies": [
-          
-        ],
+        "Dependencies": [],
         "ReleaseNotes": ""
       }
     ]
@@ -2497,12 +3775,28 @@
       {
         "Version": "0.0.3",
         "VersionTag": "alpha.23",
+        "SemanticVersion": {
+          "Major": 0,
+          "Minor": 0,
+          "FullVersion": "0.0",
+          "SupportedDBVersion": "0.0",
+          "SupportedPluginVersion": "0.0",
+          "Patch": 3,
+          "Prerelease": "alpha.23"
+        },
         "PlatformVersion": "3.26.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 26,
+          "FullVersion": "3.26",
+          "SupportedDBVersion": "3.26",
+          "SupportedPluginVersion": "3.26",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ChangesCollector_0.0.3-alpha.23.zip",
         "Incompatibilities": null,
-        "Dependencies": [
-          
-        ],
+        "Dependencies": [],
         "ReleaseNotes": ""
       }
     ]
@@ -2530,7 +3824,25 @@
       {
         "Version": "3.201.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-webhooks/releases/download/3.201.0/VirtoCommerce.WebHooks_3.201.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -2544,7 +3856,25 @@
       {
         "Version": "3.202.0",
         "VersionTag": "alpha.193",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 202,
+          "FullVersion": "3.202",
+          "SupportedDBVersion": "3.202",
+          "SupportedPluginVersion": "3.202",
+          "Patch": 0,
+          "Prerelease": "alpha.193"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WebHooks_3.202.0-alpha.193.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -2579,23 +3909,55 @@
       {
         "Version": "3.200.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-event-bus/releases/download/3.200.0/VirtoCommerce.EventBus_3.200.0.zip",
         "Incompatibilities": null,
-        "Dependencies": [
-          
-        ],
+        "Dependencies": [],
         "ReleaseNotes": ""
       },
       {
         "Version": "3.202.0",
         "VersionTag": "alpha.62",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 202,
+          "FullVersion": "3.202",
+          "SupportedDBVersion": "3.202",
+          "SupportedPluginVersion": "3.202",
+          "Patch": 0,
+          "Prerelease": "alpha.62"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.EventBus_3.202.0-alpha.62.zip",
         "Incompatibilities": null,
-        "Dependencies": [
-          
-        ],
+        "Dependencies": [],
         "ReleaseNotes": ""
       }
     ]
@@ -2622,7 +3984,25 @@
       {
         "Version": "1.4.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 1,
+          "Minor": 4,
+          "FullVersion": "1.4",
+          "SupportedDBVersion": "1.4",
+          "SupportedPluginVersion": "1.4",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.66.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 66,
+          "FullVersion": "3.66",
+          "SupportedDBVersion": "3.66",
+          "SupportedPluginVersion": "3.66",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-segments/releases/download/1.4.0/VirtoCommerce.CustomerSegments_1.4.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -2640,7 +4020,25 @@
       {
         "Version": "1.5.0",
         "VersionTag": "alpha.34",
+        "SemanticVersion": {
+          "Major": 1,
+          "Minor": 5,
+          "FullVersion": "1.5",
+          "SupportedDBVersion": "1.5",
+          "SupportedPluginVersion": "1.5",
+          "Patch": 0,
+          "Prerelease": "alpha.34"
+        },
         "PlatformVersion": "3.66.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 66,
+          "FullVersion": "3.66",
+          "SupportedDBVersion": "3.66",
+          "SupportedPluginVersion": "3.66",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerSegments_1.5.0-alpha.34.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -2678,23 +4076,55 @@
       {
         "Version": "3.0.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 0,
+          "FullVersion": "3.0",
+          "SupportedDBVersion": "3.0",
+          "SupportedPluginVersion": "3.0",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.49.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 49,
+          "FullVersion": "3.49",
+          "SupportedDBVersion": "3.49",
+          "SupportedPluginVersion": "3.49",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-feature-flags/releases/download/3.0.0/VirtoCommerce.FeatureManagement_3.0.0.zip",
         "Incompatibilities": null,
-        "Dependencies": [
-          
-        ],
+        "Dependencies": [],
         "ReleaseNotes": "First version."
       },
       {
         "Version": "3.0.0",
         "VersionTag": "alpha.29",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 0,
+          "FullVersion": "3.0",
+          "SupportedDBVersion": "3.0",
+          "SupportedPluginVersion": "3.0",
+          "Patch": 0,
+          "Prerelease": "alpha.29"
+        },
         "PlatformVersion": "3.49.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 49,
+          "FullVersion": "3.49",
+          "SupportedDBVersion": "3.49",
+          "SupportedPluginVersion": "3.49",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FeatureManagement_3.0.0-alpha.29.zip",
         "Incompatibilities": null,
-        "Dependencies": [
-          
-        ],
+        "Dependencies": [],
         "ReleaseNotes": "First version."
       }
     ]
@@ -2722,7 +4152,25 @@
       {
         "Version": "3.202.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 202,
+          "FullVersion": "3.202",
+          "SupportedDBVersion": "3.202",
+          "SupportedPluginVersion": "3.202",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-csv-import/releases/download/3.202.0/VirtoCommerce.CatalogCsvImportModule_3.202.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -2756,7 +4204,25 @@
       {
         "Version": "3.203.0",
         "VersionTag": "alpha.241",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 203,
+          "FullVersion": "3.203",
+          "SupportedDBVersion": "3.203",
+          "SupportedPluginVersion": "3.203",
+          "Patch": 0,
+          "Prerelease": "alpha.241"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogCsvImportModule_3.203.0-alpha.241.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -2810,11 +4276,27 @@
       {
         "Version": "3.205.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 205,
+          "FullVersion": "3.205",
+          "SupportedDBVersion": "3.205",
+          "SupportedPluginVersion": "3.205",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-price-export-import/releases/download/3.205.0/VirtoCommerce.PriceExportImport_3.205.0.zip",
-        "Incompatibilities": [
-          
-        ],
+        "Incompatibilities": [],
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Pricing",
@@ -2838,11 +4320,27 @@
       {
         "Version": "3.206.0",
         "VersionTag": "alpha.79",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 206,
+          "FullVersion": "3.206",
+          "SupportedDBVersion": "3.206",
+          "SupportedPluginVersion": "3.206",
+          "Patch": 0,
+          "Prerelease": "alpha.79"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PriceExportImport_3.206.0-alpha.79.zip",
-        "Incompatibilities": [
-          
-        ],
+        "Incompatibilities": [],
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Pricing",
@@ -2886,7 +4384,25 @@
       {
         "Version": "1.1.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 1,
+          "Minor": 1,
+          "FullVersion": "1.1",
+          "SupportedDBVersion": "1.1",
+          "SupportedPluginVersion": "1.1",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.65.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 65,
+          "FullVersion": "3.65",
+          "SupportedDBVersion": "3.65",
+          "SupportedPluginVersion": "3.65",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-export-import/releases/download/1.1.0/VirtoCommerce.CustomerExportImport_1.1.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -2908,7 +4424,25 @@
       {
         "Version": "1.2.0",
         "VersionTag": "alpha.78",
+        "SemanticVersion": {
+          "Major": 1,
+          "Minor": 2,
+          "FullVersion": "1.2",
+          "SupportedDBVersion": "1.2",
+          "SupportedPluginVersion": "1.2",
+          "Patch": 0,
+          "Prerelease": "alpha.78"
+        },
         "PlatformVersion": "3.65.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 65,
+          "FullVersion": "3.65",
+          "SupportedDBVersion": "3.65",
+          "SupportedPluginVersion": "3.65",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerExportImport_1.2.0-alpha.78.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -2953,7 +4487,25 @@
       {
         "Version": "1.14.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 1,
+          "Minor": 14,
+          "FullVersion": "1.14",
+          "SupportedDBVersion": "1.14",
+          "SupportedPluginVersion": "1.14",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.62.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 62,
+          "FullVersion": "3.62",
+          "SupportedDBVersion": "3.62",
+          "SupportedPluginVersion": "3.62",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-demo-features/releases/download/1.14.0/VirtoCommerce.DemoSolutionFeatures_1.14.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -2991,7 +4543,25 @@
       {
         "Version": "1.15.0",
         "VersionTag": "alpha.260",
+        "SemanticVersion": {
+          "Major": 1,
+          "Minor": 15,
+          "FullVersion": "1.15",
+          "SupportedDBVersion": "1.15",
+          "SupportedPluginVersion": "1.15",
+          "Patch": 0,
+          "Prerelease": "alpha.260"
+        },
         "PlatformVersion": "3.62.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 62,
+          "FullVersion": "3.62",
+          "SupportedDBVersion": "3.62",
+          "SupportedPluginVersion": "3.62",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.DemoSolutionFeatures_1.15.0-alpha.260.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -3049,7 +4619,25 @@
       {
         "Version": "1.0.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 1,
+          "Minor": 0,
+          "FullVersion": "1.0",
+          "SupportedDBVersion": "1.0",
+          "SupportedPluginVersion": "1.0",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.57.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 57,
+          "FullVersion": "3.57",
+          "SupportedDBVersion": "3.57",
+          "SupportedPluginVersion": "3.57",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-export-import/releases/download/1.0.0/VirtoCommerce.CatalogExportImport_1.0.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -3063,7 +4651,25 @@
       {
         "Version": "3.200.0",
         "VersionTag": "alpha.71",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": "alpha.71"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogExportImport_3.200.0-alpha.71.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -3107,7 +4713,25 @@
       {
         "Version": "1.6.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 1,
+          "Minor": 6,
+          "FullVersion": "1.6",
+          "SupportedDBVersion": "1.6",
+          "SupportedPluginVersion": "1.6",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.66.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 66,
+          "FullVersion": "3.66",
+          "SupportedDBVersion": "3.66",
+          "SupportedPluginVersion": "3.66",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-demo-customer-segments/releases/download/1.6.0/VirtoCommerce.DemoCustomerSegments_1.6.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -3129,7 +4753,25 @@
       {
         "Version": "1.7.0",
         "VersionTag": "alpha.45",
+        "SemanticVersion": {
+          "Major": 1,
+          "Minor": 7,
+          "FullVersion": "1.7",
+          "SupportedDBVersion": "1.7",
+          "SupportedPluginVersion": "1.7",
+          "Patch": 0,
+          "Prerelease": "alpha.45"
+        },
         "PlatformVersion": "3.51.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 51,
+          "FullVersion": "3.51",
+          "SupportedDBVersion": "3.51",
+          "SupportedPluginVersion": "3.51",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.DemoCustomerSegments_1.7.0-alpha.45.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -3173,23 +4815,55 @@
       {
         "Version": "3.200.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-assets/releases/download/3.200.0/VirtoCommerce.Assets_3.200.0.zip",
         "Incompatibilities": null,
-        "Dependencies": [
-          
-        ],
+        "Dependencies": [],
         "ReleaseNotes": ""
       },
       {
         "Version": "3.201.0",
         "VersionTag": "alpha.44",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": "alpha.44"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Assets_3.201.0-alpha.44.zip",
         "Incompatibilities": null,
-        "Dependencies": [
-          
-        ],
+        "Dependencies": [],
         "ReleaseNotes": ""
       }
     ]
@@ -3217,7 +4891,25 @@
       {
         "Version": "3.200.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-azureblob-assets/releases/download/3.200.0/VirtoCommerce.AzureBlobAssets_3.200.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -3231,7 +4923,25 @@
       {
         "Version": "3.201.0",
         "VersionTag": "alpha.31",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": "alpha.31"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureBlobAssets_3.201.0-alpha.31.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -3267,7 +4977,25 @@
       {
         "Version": "3.200.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-filesystem-assets/releases/download/3.200.0/VirtoCommerce.FileSystemAssets_3.200.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -3281,7 +5009,25 @@
       {
         "Version": "3.201.0",
         "VersionTag": "alpha.27",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": "alpha.27"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileSystemAssets_3.201.0-alpha.27.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -3315,7 +5061,25 @@
       {
         "Version": "3.201.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-gdpr/releases/download/3.201.0/VirtoCommerce.GDPR_3.201.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -3333,7 +5097,25 @@
       {
         "Version": "3.202.0",
         "VersionTag": "alpha.59",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 202,
+          "FullVersion": "3.202",
+          "SupportedDBVersion": "3.202",
+          "SupportedPluginVersion": "3.202",
+          "Patch": 0,
+          "Prerelease": "alpha.59"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GDPR_3.202.0-alpha.59.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -3373,12 +5155,28 @@
       {
         "Version": "1.0.0",
         "VersionTag": "alpha.17",
+        "SemanticVersion": {
+          "Major": 1,
+          "Minor": 0,
+          "FullVersion": "1.0",
+          "SupportedDBVersion": "1.0",
+          "SupportedPluginVersion": "1.0",
+          "Patch": 0,
+          "Prerelease": "alpha.17"
+        },
         "PlatformVersion": "3.81.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 81,
+          "FullVersion": "3.81",
+          "SupportedDBVersion": "3.81",
+          "SupportedPluginVersion": "3.81",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Metadata_1.0.0-alpha.17.zip",
         "Incompatibilities": null,
-        "Dependencies": [
-          
-        ],
+        "Dependencies": [],
         "ReleaseNotes": ""
       }
     ]
@@ -3406,7 +5204,25 @@
       {
         "Version": "3.206.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 206,
+          "FullVersion": "3.206",
+          "SupportedDBVersion": "3.206",
+          "SupportedPluginVersion": "3.206",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-profile-experience-api/releases/download/3.206.0/VirtoCommerce.ProfileExperienceApiModule_3.206.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -3432,7 +5248,25 @@
       {
         "Version": "3.207.0",
         "VersionTag": "alpha.36",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 207,
+          "FullVersion": "3.207",
+          "SupportedDBVersion": "3.207",
+          "SupportedPluginVersion": "3.207",
+          "Patch": 0,
+          "Prerelease": "alpha.36"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ProfileExperienceApiModule_3.207.0-alpha.36.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -3478,7 +5312,25 @@
       {
         "Version": "3.200.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticAppSearch_1.0.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -3492,7 +5344,25 @@
       {
         "Version": "3.201.0",
         "VersionTag": "alpha.26",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": "alpha.26"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticAppSearch_3.201.0-alpha.26.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -3527,7 +5397,25 @@
       {
         "Version": "3.203.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 203,
+          "FullVersion": "3.203",
+          "SupportedDBVersion": "3.203",
+          "SupportedPluginVersion": "3.203",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-return/releases/download/3.203.0/VirtoCommerce.Return_3.203.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -3541,7 +5429,25 @@
       {
         "Version": "3.204.0",
         "VersionTag": "alpha.21",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 204,
+          "FullVersion": "3.204",
+          "SupportedDBVersion": "3.204",
+          "SupportedPluginVersion": "3.204",
+          "Patch": 0,
+          "Prerelease": "alpha.21"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Return_3.204.0-alpha.21.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -3575,7 +5481,25 @@
       {
         "Version": "3.201.0",
         "VersionTag": "alpha.13",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": "alpha.13"
+        },
         "PlatformVersion": "3.209.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 209,
+          "FullVersion": "3.209",
+          "SupportedDBVersion": "3.209",
+          "SupportedPluginVersion": "3.209",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.NativePaymentMethods_3.201.0-alpha.13.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -3609,23 +5533,55 @@
       {
         "Version": "3.200.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-authorize-net/releases/download/3.200.0/VirtoCommerce.AuthorizeNetPayment_3.200.0.zip",
         "Incompatibilities": null,
-        "Dependencies": [
-          
-        ],
+        "Dependencies": [],
         "ReleaseNotes": "First version."
       },
       {
         "Version": "3.201.0",
         "VersionTag": "alpha.5",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": "alpha.5"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuthorizeNetPayment_3.201.0-alpha.5.zip",
         "Incompatibilities": null,
-        "Dependencies": [
-          
-        ],
+        "Dependencies": [],
         "ReleaseNotes": "First version."
       }
     ]
@@ -3651,7 +5607,25 @@
       {
         "Version": "3.200.0",
         "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-shipstation/releases/download/3.200.0/VirtoCommerce.ShipStation_3.200.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -3665,7 +5639,25 @@
       {
         "Version": "3.201.0",
         "VersionTag": "alpha.58",
+        "SemanticVersion": {
+          "Major": 3,
+          "Minor": 201,
+          "FullVersion": "3.201",
+          "SupportedDBVersion": "3.201",
+          "SupportedPluginVersion": "3.201",
+          "Patch": 0,
+          "Prerelease": "alpha.58"
+        },
         "PlatformVersion": "3.200.0",
+        "PlatformSemanticVersion": {
+          "Major": 3,
+          "Minor": 200,
+          "FullVersion": "3.200",
+          "SupportedDBVersion": "3.200",
+          "SupportedPluginVersion": "3.200",
+          "Patch": 0,
+          "Prerelease": ""
+        },
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ShipStation_3.201.0-alpha.58.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -3675,6 +5667,55 @@
           }
         ],
         "ReleaseNotes": "First version."
+      }
+    ]
+  },
+  {
+    "Id": "Minima.CatalogCore",
+    "Title": "Commerce Catalog module",
+    "Description": "Common e-commerce domain functionality",
+    "Authors": [
+      "Emre Karahan"
+    ],
+    "Owners": [
+      "Minima"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-core-module",
+    "IconUrl": "Modules/$(VirtoCommerce.Core)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
+    "Tags": "security core",
+    "Groups": [
+      "commerce"
+    ],
+    "Versions": [
+      {
+        "Version": "1.0.0",
+        "VersionTag": "",
+        "SemanticVersion": {
+          "Major": 1,
+          "Minor": 0,
+          "FullVersion": "1.0",
+          "SupportedDBVersion": "1.0",
+          "SupportedPluginVersion": "1.0",
+          "Patch": 0,
+          "Prerelease": ""
+        },
+        "PlatformVersion": "1.0.0",
+        "PlatformSemanticVersion": {
+          "Major": 1,
+          "Minor": 0,
+          "FullVersion": "1.0",
+          "SupportedDBVersion": "1.0",
+          "SupportedPluginVersion": "1.0",
+          "Patch": 0,
+          "Prerelease": ""
+        },
+        "PackageUrl": "https://github.com/MinimaCommerce/minima-module-catalog/releases/download/1.0.1/Minima.CatalogCore_1.0.1.zip",
+        "Incompatibilities": [],
+        "Dependencies": null,
+        "ReleaseNotes": ""
       }
     ]
   }
