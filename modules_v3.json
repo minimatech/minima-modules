@@ -41,7 +41,7 @@
           "Patch": 0,
           "Prerelease": ""
         },
-        "PackageUrl": "https://github.com/MinimaCommerce/minima-module-catalog/releases/download/1.0.2/Minima.CatalogCore_1.0.2.zip",
+        "PackageUrl": "https://github.com/minimatech/minima-module-catalog/releases/download/1.0.2/Minima.CatalogModule_1.0.2.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""
