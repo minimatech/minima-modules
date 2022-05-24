@@ -20,7 +20,7 @@
     ],
     "Versions": [
       {
-        "Version": "1.0.0",
+        "Version": "1.0.2",
         "VersionTag": "",
         "SemanticVersion": {
           "Major": 1,
@@ -28,7 +28,7 @@
           "FullVersion": "1.0",
           "SupportedDBVersion": "1.0",
           "SupportedPluginVersion": "1.0",
-          "Patch": 0,
+          "Patch": 2,
           "Prerelease": ""
         },
         "PlatformVersion": "1.0.0",
@@ -41,7 +41,7 @@
           "Patch": 0,
           "Prerelease": ""
         },
-        "PackageUrl": "https://github.com/minimatech/minima-module-catalog/releases/download/1.0.0/Minima.Catalog_1.0.0.zip",
+        "PackageUrl": "https://github.com/minimatech/minima-module-catalog/releases/download/1.0.1/Minima.Catalog_1.0.1.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""
