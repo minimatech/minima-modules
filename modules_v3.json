@@ -10,10 +10,10 @@
       "Minima"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-core-module",
-    "IconUrl": "Modules/$(VirtoCommerce.Core)/Content/logo.png",
+    "ProjectUrl": "https://minima.work/apps/extensions/minima-catalog-module",
+    "IconUrl": "Modules/$(Minima.Catalog)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2021 Minima Technologies. All rights reserved",
     "Tags": "security core",
     "Groups": [
       "commerce"
